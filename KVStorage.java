@@ -1,4 +1,4 @@
-package com.ivhong.filepersistencetest;
+package com.ivhong.androidcommonlibrary;
 
 import android.content.ContentValues;
 import android.content.Context;
